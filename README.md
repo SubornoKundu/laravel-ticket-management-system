@@ -4,7 +4,7 @@ A support-ticket management app built with **Laravel**, **Vue 3**, and **Inertia
 
 ## 🎥 Demo Video
 
-[Watch the demo on YouTube](YOUR_YOUTUBE_LINK_HERE)
+[Watch the demo on YouTube](https://youtu.be/bsHF5cfzJrc)
 
 ## ✨ Features
 
